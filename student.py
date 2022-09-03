@@ -515,7 +515,7 @@ class student:
                 messagebox.showerror("Error",f"Due To:{str(es)}",parent=self.root)
 
     
-
+print("ismail")
 
 
 
